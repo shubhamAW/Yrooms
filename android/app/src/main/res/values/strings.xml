@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">yrooms</string>
+    <string name="title_activity_main">yrooms</string>
+    <string name="package_name">com.yrooms.app</string>
+    <string name="custom_url_scheme">com.yrooms.app</string>
+</resources>
