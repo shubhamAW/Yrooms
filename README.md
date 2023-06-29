@@ -1,5 +1,5 @@
 # Live Page
-(https://www.yrooms.vercel.app)[Website]
+[https://www.yrooms.vercel.app](Website)
 
 Features:
 
